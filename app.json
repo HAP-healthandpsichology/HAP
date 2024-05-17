@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "HAP",
+    "slug": "HAP",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LogoHAP.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/LogoHAP.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F6F5F5"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LogoHAP.png",
+        "backgroundColor": "#F6F5F5"
+      }
+    },
+    "web": {
+      "favicon": "./assets/LogoHAP.png"
+    }
+  }
+}
